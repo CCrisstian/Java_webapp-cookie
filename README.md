@@ -1,4 +1,4 @@
-<h1>Introducción Cookie en Servlet</h1>
+<h1 align="center">Introducción Cookie en Servlet</h1>
 <h2>¿Qué es una Cookie?</h2>
 <p>Una cookie son datos del usuario almacenados en el navegador web (lado del cliente) y los servidores la utilizan cuando se comunican con el cliente.</p>
 <p align="center"><img width="719" alt="image" src="https://github.com/user-attachments/assets/e0209a22-60e6-4b5d-8d59-99ca05344bcf"></p>
